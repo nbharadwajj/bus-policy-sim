@@ -8,3 +8,5 @@ venv/
 outputs/
 *.egg-info/
 .pytest_cache/
+cache/
+.mplconfig/

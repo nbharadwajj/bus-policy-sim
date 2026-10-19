@@ -1,3 +1,8 @@
 numpy>=2.1
 pandas>=2.2
 matplotlib>=3.9
+networkx>=3.3
+osmnx>=2.0
+geopandas>=1.0
+shapely>=2.0
+simpy>=4.1

@@ -51,3 +51,7 @@ python -m src.main   # writes nyc_midtown_* and sf_like_from_nyc_* plots
 - `src/main.py` — NYC baseline + SF-like comparison
 - `cache/gtfs/` — downloaded GTFS zips
 - `outputs/` — figures (git-ignored)
+
+## Notice
+
+This code was written with [Cursor](https://cursor.com).
